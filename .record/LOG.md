@@ -67,3 +67,11 @@ session, replacing the older try-each-drive-letter fallback list with the new
 rule: "Come code with us.. ;).md" lines 123 and 289-294, "Give me a G drive for
 coding.md" lines 184-195, "My daily streatch.md" lines 29-36, and "Daily Run
 Instructions.md" lines 207-211.
+
+## 2026-11-10 - onboarding Git access test (Chris Morris)
+
+evidence: test change only, made on branch chris/onboarding-git-test to prove
+Chris's GitHub access end to end (clone, branch, commit, push, pull request).
+Nothing deployed. This repository has no wrangler config and no Pages project,
+so a pushed branch cannot start a build. No code or page content changed; the
+only change is this log entry.
